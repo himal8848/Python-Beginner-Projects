@@ -1,5 +1,5 @@
 
-# Loop back to this point once code finishes
+#Mad_libs Game
 loop = 1
 
 while (loop < 10):
